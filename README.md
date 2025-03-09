@@ -28,11 +28,7 @@ npm start
 
 To use your own API, open the `client/src/App.tsx` file and find the `API_URL` constant. Update its value to match the URL of your deployed server (`http://localhost:80`).
 
-### Start the server in the `server` directory:
 
-```bash
-npm start
-```
 
 # Features
 
@@ -49,34 +45,6 @@ npm start
 -   TypeScript React: A JavaScript library for building user interfaces with TypeScript
 -   Tailwind CSS: A utility-first CSS framework
 -   CSS: A stylesheet language used to describe the presentation of a document written in HTML or XML
-
-# Server Dependencies
-
--   acorn
--   bad-words
--   bcrypt
--   cors
--   dotenv
--   express
--   jsonwebtoken
--   mongodb
--   mongoose
--   typescript
-
-# Client Dependencies
-
--   @uiw/codemirror-extensions-langs
--   @uiw/codemirror-theme-tokyo-night
--   @uiw/react-codemirror
--   axios
--   markdown-it
--   react
--   react-dom
--   react-router-dom
--   react-scripts
--   react-type-animation
--   typescript
--   web-vitals
 
 # Contributing
 
